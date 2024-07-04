@@ -7,5 +7,8 @@ Iniciando na área de Programação, Estudante de Javascript pela EBAC.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Micael013)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
 
+
+### Contatos 
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/micael-silva013/)
